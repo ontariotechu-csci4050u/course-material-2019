@@ -1,2 +1,5 @@
-# course-material-2019
-Course Material for CSCI 4050U (2019-09)
+# Machine Learning, Fall 2019
+
+## Quizzes
+
+- On Tensors: https://forms.gle/uBqWGanPfsnQMZJ26
