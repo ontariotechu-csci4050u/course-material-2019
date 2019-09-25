@@ -2,7 +2,8 @@
 
 ## Quizzes
 
-- On Tensors: https://forms.gle/uBqWGanPfsnQMZJ26
+- 2019-09-23: On Tensors https://forms.gle/uBqWGanPfsnQMZJ26
+- 2019-09-25: On Linear Algebra https://forms.gle/g1TZTYTRp4ydQ9sv9
 
 ## Colaboratory notebooks
 
