@@ -2,8 +2,9 @@
 
 ## Quizzes
 
-- 2019-09-23: On Tensors https://forms.gle/uBqWGanPfsnQMZJ26
-- 2019-09-25: On Linear Algebra https://forms.gle/g1TZTYTRp4ydQ9sv9
+1. 2019-09-23: On Tensors https://forms.gle/uBqWGanPfsnQMZJ26
+2. 2019-09-25: On Linear Algebra https://forms.gle/g1TZTYTRp4ydQ9sv9
+3. 2019-10-30: On Tensorflow basics: https://forms.gle/3xDV6qCPvBPdjmXH9
 
 ## Colaboratory notebooks
 
