@@ -18,3 +18,4 @@ https://drive.google.com/drive/folders/1tHdPFwHk90q3YWMqcJaKVjPOOz9BU1tY?usp=sha
 |------------|----------|-----|
 | A1: Iris Classficiation | October 27, 2019 | https://classroom.github.com/a/x4sPGDIr |
 | A2: MNIST Classificaion with three models | November 17, 2019 | https://classroom.github.com/a/ymsWDus2 |
+| A3: Weather event prediction | December 8, 2019 | https://classroom.github.com/a/l3jupRUU |
